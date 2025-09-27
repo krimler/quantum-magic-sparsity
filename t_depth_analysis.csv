@@ -1,0 +1,13 @@
+n,t_count,strategy,t_depth,parallelization
+32,320,sequential,320,1.0
+32,320,limited_parallel,64,5.0
+32,320,full_parallel,10,32.0
+32,320,logarithmic,8,40.0
+64,768,sequential,768,1.0
+64,768,limited_parallel,96,8.0
+64,768,full_parallel,12,64.0
+64,768,logarithmic,9,85.33333333333333
+128,1792,sequential,1792,1.0
+128,1792,limited_parallel,162,11.061728395061728
+128,1792,full_parallel,14,128.0
+128,1792,logarithmic,10,179.2
